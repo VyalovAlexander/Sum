@@ -1,9 +1,7 @@
 <?php
 
+include "src/Sum.php";
 
-function sum($a, $b)
-{
-    return $a + $b;
-}
+$sum = new \Sum\Sum();
 
-echo sum(1, 2);
+echo $sum->process(1,2);

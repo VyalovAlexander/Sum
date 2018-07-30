@@ -9,5 +9,10 @@
             "email": "vyalov.alexander@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4" : {
+            "VyalovAlexander\\" : "src"
+        }
+    },
     "require": {}
 }

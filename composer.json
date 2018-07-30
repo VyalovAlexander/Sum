@@ -1,6 +1,8 @@
 {
     "name": "vyalov.alexander/sum",
     "description": "sum library",
+    "type": "library",
+    "licence": "`MIT",
     "authors": [
         {
             "name": "Vyalov Alexander",

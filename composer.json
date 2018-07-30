@@ -1,0 +1,11 @@
+{
+    "name": "vyalov.alexander/sum",
+    "description": "sum library",
+    "authors": [
+        {
+            "name": "Vyalov Alexander",
+            "email": "vyalov.alexander@gmail.com"
+        }
+    ],
+    "require": {}
+}

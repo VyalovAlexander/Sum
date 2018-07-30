@@ -1,6 +1,6 @@
 <?php
 
-namespace Sum;
+namespace VyalovAlexander;
 
 class Sum
 {
